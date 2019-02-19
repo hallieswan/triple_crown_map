@@ -1,0 +1,21 @@
+## Triple Crown Map
+
+Visit my live triple crown hiking map [here](https://hallietheswan.com/shiny/sample-apps/trail_map/) to view images, campsites, resupply points, and more. The app takes about 3-5 seconds to load.  
+
+### Background
+
+The [triple crown of hiking](https://en.wikipedia.org/wiki/Triple_Crown_of_Hiking) involves hiking the Appalachian Trail (AT), Pacific Crest Trail (PCT), and the Continental Divide Trail (CDT). Over three summers, I thru hiked the trails by walking 7500+ miles, gaining 1,000,000+ vertical feet, and visited 22 states.  
+
+Along the way, I carried a satellite communication device that recorded my location every 30 minutes. Unfortunately, the GPS data from my first two hikes (AT, PCT) was deleted. However, I have the GPS data from my CDT thru hike. I also have notes of my campsites from all three trails.  
+
+When I got home from the CDT, I realized I could build a visualization to share my experience in a different way. 
+
+### Structure
+
+`bash` contains 
+
+### Status
+
+Currently, the app only contains data from my CDT thru hike. However, I plan to add images, campsites, and resupply points from my AT and PCT thru hikes. I also plan to include viewers for elevation profiles and mileage hiked.
+
+
